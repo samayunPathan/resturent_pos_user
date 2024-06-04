@@ -80,7 +80,7 @@ export default function signup() {
               </Link>
             </p>
             <p className="mb-4 text-xs mx-28 ">
-              Don't have an account? Go to{" "}
+              Do not have an account? Go to{" "}
               <Link href="#">
                 <span className="text-blue-500">Registration</span>
               </Link>
